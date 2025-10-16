@@ -89,7 +89,7 @@ export default function Solutions() {
     {
       title: "Guides Experts",
       description: "Des ressources complètes pour maîtriser votre investissement",
-      image: "/Trouver son bien rentable (1).png",
+      image: "/Accès au crédit (1).png",
       services: [
         {
           title: "Guide Crédit Non-Résident",

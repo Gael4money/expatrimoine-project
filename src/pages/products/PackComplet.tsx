@@ -42,7 +42,7 @@ export default function PackComplet() {
     {
       title: "Guide Crédit Non-Résident",
       description: "Maximisez vos chances d'obtenir un financement optimal",
-      image: "/Acc%C3%A8s%20au%20cr%C3%A9dit%20(1).png",
+      image: "/Accès au crédit (1).png",
       features: [
         "Stratégies de financement innovantes",
         "Dossier bancaire optimal",

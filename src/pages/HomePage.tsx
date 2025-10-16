@@ -1,30 +1,7 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import { subscribeToNewsletter } from '../lib/brevo';
-import {
-  Globe,
-  Clock,
-  BookOpen,
-  Building2,
-  PiggyBank,
-  FileText,
-  ArrowRight,
-  Check,
-  Package,
-  Briefcase,
-  Calculator,
-  Building,
-  Users,
-  Calendar,
-  MailIcon,
-  Book,
-  Lock,
-  ShieldCheck,
-  Box,
-  Target,
-  Brain,
-  Puzzle as PuzzlePiece
-} from 'lucide-react';
+import { Globe, Clock, BookOpen, Building2, PiggyBank, FileText, ArrowRight, Check, Package, Briefcase, Calculator, Building, Users, Calendar, Mail as MailIcon, Book, Lock, ShieldCheck, Box, Target, Brain, Puzzle as PuzzlePiece } from 'lucide-react';
 
 export default function HomePage() {
   const [email, setEmail] = useState('');
