@@ -195,7 +195,7 @@ export default function HomePage() {
                 </div>
                 <div className="grid grid-cols-3 gap-4">
                   {[
-                    "/Acc%C3%A8s%20au%20cr%C3%A9dit%20(1).png",
+                    "/Accès au crédit (1).png",
                     "/Optimisation Fiscale (2).png",
                     "/Trouver son bien rentable (1).png"
                   ].map((image, index) => (

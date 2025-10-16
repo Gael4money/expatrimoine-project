@@ -86,7 +86,7 @@ export default function GuideInvestissement() {
           {/* Left Column - Product Image and Details */}
           <div>
             <img
-              src="/Acc%C3%A8s%20au%20cr%C3%A9dit%20(1).png"
+              src="/Accès au crédit (1).png"
               alt="Guide Crédit Non-Résident"
               className="rounded-2xl shadow-2xl mb-8"
             />
